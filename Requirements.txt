@@ -1,7 +1,6 @@
-# LGAF Medical AI System
+streamlit==1.32.2
+torch==2.1.2
+torchvision==0.16.2
+numpy
+pillow
 
-This application performs:
-- MRI Tumor Risk Assessment using LGAF ResNet-34
-- Tumor Type Classification using LGAF ResNet-18
-
-⚠️ Research and educational use only. Not for clinical diagnosis.
